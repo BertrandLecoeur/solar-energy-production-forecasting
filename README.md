@@ -98,5 +98,5 @@ Key drivers identified:
 
 ## Authors
 
-CY Tech – ING3 MMF  
+Bertrand Lecoeur - CY Tech - ING3 MMF  
 FinTech Project 2025-2026
