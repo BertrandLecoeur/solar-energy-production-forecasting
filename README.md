@@ -80,7 +80,7 @@ Key drivers identified:
 
 ```text
 .
-├── FINAL_PROJECT_GROUP2.ipynb
+├── FINAL_PROJECT.ipynb
 ├── POWER POINT FINAL PROJECT FINTECH.pdf
 └── README.md
 ```
